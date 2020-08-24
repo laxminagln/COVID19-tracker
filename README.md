@@ -1,6 +1,6 @@
 # ![COVID19-tracker](http://www.laxminagln.me/COVID19-tracker/)
 A live COVID19 stats view
-```bash
+```
 npm i                       //installs all required scripts
 npm start                   //site starts at localhost
 ```
