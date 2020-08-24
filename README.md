@@ -1,6 +1,7 @@
 # ![COVID19-tracker](http://www.laxminagln.me/COVID19-tracker/)
 A live COVID19 stats view
+```javascript
+npm i                       //installs all required scripts
+npm start                   //site starts at localhost
 ```
-npm i
-npm start
-```
+Almost every component is a button except live cases table :)
