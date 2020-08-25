@@ -59,6 +59,7 @@ function App() {
     });
   };
   return (
+    <title>COVID19 tracker</title>
     <div className="app">
       <div className="app_left">
         <div className="app_header">
